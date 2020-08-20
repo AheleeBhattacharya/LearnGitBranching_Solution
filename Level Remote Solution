@@ -1,1 +1,15 @@
+<1> Push & Pull -- Git Remotes!
 
+1: Clone Intro-
+git clone
+
+2: Remote Branches-
+git commit
+git checkout o/master
+git commit
+
+3: Git Fetchin'-
+git fetch
+
+4: Git Pullin'-
+git pull
